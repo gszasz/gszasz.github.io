@@ -63,7 +63,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "gszasz@physics.muni.cz"
-  address = "DTPA FSci, Masaryk University, Kotlářská 2, Brno, 611 37, Czechia"
+  address = "Ústav teoretické fyziky a astrofyziky, Masaryk University, Kotlářská 2, Brno, 602 00, Czechia"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "+420 774 669 951"
   # skype = "echo123"
