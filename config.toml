@@ -46,29 +46,37 @@ enableGitInfo = false
   hrefTargetBlank = true  # `true` opens external links in a new tab.
   fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
+  extensions = ["backslashLineBreak"]
 
 [params]
   # AUTHOR SETUP
 
   # Your details.
   name = "Gabriel Szász"
-  role = "Astrophysics Graduate Student"
+  role = "Graduate Student in Astronomy & Astrophysics"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Masaryk University", url = "http://astro.physics.muni.cz" }, { name = "Red Hat, Inc.", url = "https://www.redhat.com/en/global/czech-republic"} ]
+  organizations = [ { name = "Masaryk University", url = "http://astro.physics.muni.cz/en/" }, { name = "Red Hat, Inc.", url = "https://www.redhat.com/en/global/czech-republic"} ]
 
-  gravatar = true  # Get your avatar from Gravatar.com? (true/false)
+  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "gszasz@physics.muni.cz"
   address = "Ústav teoretické fyziky a astrofyziky, Masaryk University, Kotlářská 2, Brno, 602 00, Czechia"
-  # office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  #office_hours = """
+  #Monday 10:00 to 13:00\\
+  #Wednesday 09:00 to 10:00\\
+  #Otherwise email to book an appointment
+  #"""
   phone = "+420 774 669 951"
-  # skype = "echo123"
+  #skype = "echo123"
   telegram = "gszasz"
   #keybase = ""  # Your keybase.io username.
+
+  # Enter an optional link for booking appointments (e.g. calendly.com).
+  #appointment_url = ""
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
@@ -91,7 +99,6 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 1
   map_api_key = "AIzaSyCqX0qakyLwCmuYdHeouIlygJUcQnodLd0"
-
   latitude = "49.204767"
   longitude = "16.596847"
   zoom = 15
@@ -101,6 +108,8 @@ enableGitInfo = false
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
   color_theme = "ocean"
+  # Enable users to switch between day and night mode?
+  day_night = true
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -173,7 +182,7 @@ enableGitInfo = false
   # Privacy pack
   #   Show a cookie consent message to visitors
   #   Anonymize IP in Google Analytics (if enabled)
-  privacy_pack = true
+  privacy_pack = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
@@ -262,19 +271,29 @@ enableGitInfo = false
     link = "https://twitter.com/gszasz"
 
   [[params.social]]
-    icon = "facebook"
-    icon_pack = "fab"
-    link = "https://facebook.com/gszasz"
-
-  [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
   [[params.social]]
+    icon = "mendeley"
+    icon_pack = "fab"
+    link = "https://github.com/gszasz"
+
+  [[params.social]]
+    icon = "researchgate"
+    icon_pack = "fab"
+    link = "https://github.com/gszasz"
+
+  [[params.social]]
+    icon = "academia.edu"
+    icon_pack = "fab"
+    link = "https://github.com/gszasz"
+
+  [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "https://github.com/gcushen"
+    link = "https://github.com/gszasz"
 
   [[params.social]]
     icon = "gitlab"
@@ -315,6 +334,11 @@ enableGitInfo = false
   name = "Projects"
   url = "#projects"
   weight = 4
+
+[[menu.main]]
+  name = "Tutorials"
+  url = "/tutorial/"
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
