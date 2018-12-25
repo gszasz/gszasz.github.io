@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "http://szasz.space/"
+baseurl = "https://szasz.space/"
 
 # Title of your site
 title = "Gabriel Szász"
@@ -107,7 +107,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "ocean"
+  color_theme = "default"
   # Enable users to switch between day and night mode?
   day_night = true
 
