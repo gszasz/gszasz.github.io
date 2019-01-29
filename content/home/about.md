@@ -35,6 +35,4 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Gabriel Szász [saːs] is a graduate student in astrophysics at the Masaryk University.  His research interests include stellar clusters, photometry, and cataclysmic variable stars.  He works on a new pseudo-rotating model atmosphere grid, which will provide more precise model atmospheres for rotating A- and B-type stars.
