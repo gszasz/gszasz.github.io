@@ -35,4 +35,4 @@ weight = 5
 
 # Biography
 
-Gabriel Szász <span style="color:grey">[saːs]</span> is a graduate student in astrophysics at the Masaryk University.  His research interests include stellar clusters, photometry, and cataclysmic variable stars.  He works on a new pseudo-rotating model atmosphere grid, which will provide more precise model atmospheres for rotating A- and B-type stars.
+Gabriel Szász <span style="color:grey">/saːs/</span> is a graduate student in astrophysics at the Masaryk University.  His research interests include stellar clusters, photometry, and cataclysmic variable stars.  He works on a new pseudo-rotating model atmosphere grid, which will provide more precise model atmospheres for rotating A- and B-type stars.
