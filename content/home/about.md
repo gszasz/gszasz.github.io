@@ -1,38 +1,14 @@
 +++
-# About/Biography widget.
-widget = "about"
-active = true
-date = 2016-04-20T00:00:00
+# About widget.
+widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 20  # Order that this section will appear in.
 
-# Order that this section will appear in.
-weight = 5
+title = "Biography"
 
-# List your academic interests.
-[interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
-
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+# Choose the user profile to display
+# This should be the username of a profile in your `content/authors/` folder.
+# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
+author = "admin"
 +++
-
-# Biography
-
-Gabriel Szász <span style="color:grey">/saːs/</span> is a graduate student in astrophysics at the Masaryk University.  His research interests include stellar clusters, photometry, and cataclysmic variable stars.  He works on a new pseudo-rotating model atmosphere grid, which will provide more precise model atmospheres for rotating A- and B-type stars.
