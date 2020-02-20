@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include stellar astrophysics, data analysis and high-performance computing.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Instrumentation and Analysis
+- Galactic Open Clusters
+- Cataclysmic Variable Stars
 
 education:
   courses:
@@ -42,12 +42,33 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/gszasz
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/gszasz/
 - icon: github
   icon_pack: fab
   link: https://github.com/gszasz
+- icon: gitlab
+  icon_pack: fab
+  link: https://gitlab.com/gszasz
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=i-3QEpkAAAAJ
+- icon: academia
+  icon_pack: ai
+  link: https://muni.academia.edu/gszasz
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Gabriel_Szasz2
+#- icon: mendeley
+#  icon-pack: ai
+#  link: https://www.mendeley.com/profiles/gabriel-szsz/
+#- icon: zotero
+#  icon-pack: ai
+#  link: https://www.zotero.org/gszasz
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-0437-3897
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
