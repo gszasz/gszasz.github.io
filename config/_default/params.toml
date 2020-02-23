@@ -90,7 +90,7 @@ phone = "+420 774 669 951"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Kotlářská 2", city = "Brno", region = "", postcode = "61137", country = "Czech Republic", countrycode = "CZ"}
+address = {street = "Kotlářská 267/2", city = "Brno", region = "", postcode = "611 37", country = "Czech Republic", country_code = "CZ"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -148,8 +148,8 @@ address_format = "en-us"
 # Get user avatars from Gravatar.com? (true/false)
 gravatar = false
 
-# Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "l", show_logo = true}
+# Main menu alignment (l = left, c = center, r = right).
+main_menu = {align = "l"}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true
@@ -166,12 +166,12 @@ link_authors = true
 
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
-plugins_js  = ["redirect"]
+plugins_js  = ["custom"]
 
 # Available address formats.
 [address_formats]
 #  en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
-  en-us = {order = ['countrycode', 'country_code', 'postcode', 'city', 'country'], delimiters = [', ', '-', ' ', ', ']}
+  en-us = {order = ['street', 'postcode', 'city', 'country'], delimiters = ['<br>', ' ', '<br>']}
   en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
   de = {order = ['street', 'postcode', 'city'], delimiters = [', ', ' ', '']}
   fr-fr = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
