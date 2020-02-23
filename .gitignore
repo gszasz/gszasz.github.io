@@ -2,3 +2,6 @@ public/
 .idea/
 resources/
 
+# Ignore backup files
+*~
+.#*
