@@ -1,0 +1,5 @@
+{{ if isset .Params 0 }}
+<a style="color:grey" href="{{ index .Params 0 }}" target="_blank" rel="noopener">{{ .Inner }}</a>
+{{ else }}
+<span style="color:grey">{{ .Inner }}</span>
+{{ end }}

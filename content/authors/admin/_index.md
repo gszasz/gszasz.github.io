@@ -91,4 +91,4 @@ user_groups:
 - Visitors
 ---
 
-Gabriel Szász <span style="color:grey">/saːs/</span> is an astrophysics graduate student at Masaryk University.  His primary research interests include stellar astrophysics, data analysis and high-performance computing.  He collaborates with the [Vega Project](https://research.redhat.com/projects/vega-project-openshift-based-hpc-for-fundamental-science/) research group at Red Hat on OpenShift-based HPC solution for fundamental science.
+Gabriel Szász {{< pronunciation "http://www.szasz.com/pronounce.html" >}}/saːs/{{< /pronunciation >}} is an astrophysics graduate student at Masaryk University.  His primary research interests include stellar astrophysics, data analysis and high-performance computing.  He collaborates with the [Vega Project](https://research.redhat.com/projects/vega-project-openshift-based-hpc-for-fundamental-science/) research group at Red Hat on OpenShift-based HPC solution for fundamental science.
