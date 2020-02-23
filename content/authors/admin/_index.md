@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student in Astrophysics
+role: Astrophysics Graduate Student and Research Assistant
 
 # Organizations/Affiliations
 organizations:
 - name: Masaryk University
-  url: ""
+  url: "https://www.physics.muni.cz/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include stellar astrophysics, data analysis and high-performance computing.
@@ -51,29 +51,35 @@ social:
 - icon: gitlab
   icon_pack: fab
   link: https://gitlab.com/gszasz
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=i-3QEpkAAAAJ
+- icon: goodreads
+  icon_pack: fab
+  link: https://www.goodreads.com/gszasz
+- icon: get-pocket
+  icon_pack: fab
+  link: https://getpocket.com/@gszasz
 - icon: academia
   icon_pack: ai
   link: https://muni.academia.edu/gszasz
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Gabriel_Szasz2
-#- icon: mendeley
-#  icon-pack: ai
-#  link: https://www.mendeley.com/profiles/gabriel-szsz/
-#- icon: zotero
-#  icon-pack: ai
-#  link: https://www.zotero.org/gszasz
+- icon: mendeley
+  icon_pack: ai
+  link: https://www.mendeley.com/profiles/gabriel-szsz/
+- icon: zotero
+  icon_pack: ai
+  link: https://www.zotero.org/gszasz
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=i-3QEpkAAAAJ
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-0437-3897
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/gabriel-szasz-cv.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: files/gabriel-szasz-cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -85,4 +91,4 @@ user_groups:
 - Visitors
 ---
 
-Gabriel Szász <span style="color:grey">/saːs/</span> is a graduate student in astrophysics at Masaryk University.  His primary research interests include stellar astrophysics, data analysis and high-performance computing.  He collaborates with the [Vega Project](https://research.redhat.com/projects/vega-project-openshift-based-hpc-for-fundamental-science/) research group at Red Hat on OpenShift-based HPC solution for fundamental science.
+Gabriel Szász <span style="color:grey">/saːs/</span> is an astrophysics graduate student at Masaryk University.  His primary research interests include stellar astrophysics, data analysis and high-performance computing.  He collaborates with the [Vega Project](https://research.redhat.com/projects/vega-project-openshift-based-hpc-for-fundamental-science/) research group at Red Hat on OpenShift-based HPC solution for fundamental science.
