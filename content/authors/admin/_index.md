@@ -51,12 +51,12 @@ social:
 - icon: gitlab
   icon_pack: fab
   link: https://gitlab.com/gszasz
-- icon: goodreads
-  icon_pack: fab
-  link: https://www.goodreads.com/gszasz
 - icon: get-pocket
   icon_pack: fab
   link: https://getpocket.com/@gszasz
+- icon: goodreads
+  icon_pack: fab
+  link: https://www.goodreads.com/gszasz
 - icon: academia
   icon_pack: ai
   link: https://muni.academia.edu/gszasz
@@ -69,6 +69,9 @@ social:
 - icon: zotero
   icon_pack: ai
   link: https://www.zotero.org/gszasz
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/3188082/gabriel-szasz/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=i-3QEpkAAAAJ
