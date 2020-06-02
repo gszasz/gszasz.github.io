@@ -66,9 +66,6 @@ social:
 - icon: mendeley
   icon_pack: ai
   link: https://www.mendeley.com/profiles/gabriel-szsz/
-- icon: zotero
-  icon_pack: ai
-  link: https://www.zotero.org/gszasz
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/3188082/gabriel-szasz/
