@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Recent &amp; Upcoming Talks | Gabriel Szász</title>
-    <link>https://szasz.space/talk/</link>
-      <atom:link href="https://szasz.space/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 Gabriel Szász</copyright>
-    <image>
-      <url>https://szasz.space/img/gszasz-profile.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://szasz.space/talk/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recent &amp; Upcoming Talks | Gabriel Szász</title><link>https://szasz.space/talk/</link><atom:link href="https://szasz.space/talk/index.xml" rel="self" type="application/rss+xml"/><description>Recent &amp; Upcoming Talks</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 Gabriel Szász</copyright><image><url>https://szasz.space/img/gszasz-profile.png</url><title>Recent &amp; Upcoming Talks</title><link>https://szasz.space/talk/</link></image></channel></rss>

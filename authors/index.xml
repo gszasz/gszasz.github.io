@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Authors | Gabriel Szász</title>
-    <link>https://szasz.space/authors/</link>
-      <atom:link href="https://szasz.space/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 Gabriel Szász</copyright><lastBuildDate>Tue, 26 Nov 2019 14:31:54 +0100</lastBuildDate>
-    <image>
-      <url>https://szasz.space/img/gszasz-profile.png</url>
-      <title>Authors</title>
-      <link>https://szasz.space/authors/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Authors | Gabriel Szász</title><link>https://szasz.space/authors/</link><atom:link href="https://szasz.space/authors/index.xml" rel="self" type="application/rss+xml"/><description>Authors</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 Gabriel Szász</copyright><lastBuildDate>Tue, 26 Nov 2019 14:31:54 +0100</lastBuildDate><image><url>https://szasz.space/img/gszasz-profile.png</url><title>Authors</title><link>https://szasz.space/authors/</link></image></channel></rss>

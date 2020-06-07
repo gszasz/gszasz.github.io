@@ -66,5 +66,4 @@ let templateData={key:key,title:value.item.title,type:content_key,relpermalink:v
 function render(template,data){let key,find,re;for(key in data){find='\\{\\{\\s*'+key+'\\s*\\}\\}';re=new RegExp(find,'g');template=template.replace(re,data[key]);}
 return template;}
 if(typeof Fuse==='function'){$.getJSON(search_config.indexURI,function(search_index){let fuse=new Fuse(search_index,fuseOptions);if(query=getSearchQuery('q')){$("body").addClass('searching');$('.search-results').css({opacity:0,visibility:"visible"}).animate({opacity:1},200);$("#search-query").val(query);$("#search-query").focus();initSearch(true,fuse);}
-$('#search-query').keyup(function(e){clearTimeout($.data(this,'searchTimer'));if(e.keyCode==13){initSearch(true,fuse);}else{$(this).data('searchTimer',setTimeout(function(){initSearch(false,fuse);},250));}});});};hostname=window.location.hostname;if(hostname.indexOf("www")==0){window.location=window.location.href.replace("www.","");}
-else if(hostname.indexOf("gszasz.gitlab.io")==0){window.location=window.location.href.replace("gszasz.gitlab.io","szasz.space");}
+$('#search-query').keyup(function(e){clearTimeout($.data(this,'searchTimer'));if(e.keyCode==13){initSearch(true,fuse);}else{$(this).data('searchTimer',setTimeout(function(){initSearch(false,fuse);},250));}});});}
