@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Štefan Parimucha | Gabriel Szász</title>
+    <link>https://szasz.space/authors/stefan-parimucha/</link>
+      <atom:link href="https://szasz.space/authors/stefan-parimucha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Štefan Parimucha</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 Gabriel Szász</copyright><lastBuildDate>Thu, 01 Dec 2005 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://szasz.space/img/gszasz-profile.png</url>
+      <title>Štefan Parimucha</title>
+      <link>https://szasz.space/authors/stefan-parimucha/</link>
+    </image>
+    
+    <item>
+      <title>New Minima of Selected Eclipsing Close Binaries</title>
+      <link>https://szasz.space/publication/new-minima-of-selected-eclipsing-close-binaries/</link>
+      <pubDate>Thu, 01 Dec 2005 00:00:00 +0100</pubDate>
+      <guid>https://szasz.space/publication/new-minima-of-selected-eclipsing-close-binaries/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
