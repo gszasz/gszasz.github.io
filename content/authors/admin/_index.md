@@ -48,9 +48,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/gszasz
-- icon: gitlab
-  icon_pack: fab
-  link: https://gitlab.com/gszasz
 - icon: get-pocket
   icon_pack: fab
   link: https://getpocket.com/@gszasz
@@ -77,18 +74,18 @@ social:
   link: https://orcid.org/0000-0002-0437-3897
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-#- icon: cv
-#  icon_pack: ai
-#  link: files/gabriel-szasz-cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/gabriel-szasz-cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+user_groups: []
+#- Researchers
+#- Visitors
 ---
 
 Gabriel Szász {{< pronunciation "http://www.szasz.com/pronounce.html" >}}/saːs/{{< /pronunciation >}} is an astrophysics graduate student and a research assistant at Masaryk University.  His primary research interests include stellar astrophysics, data analysis and high-performance computing.  He collaborates with the [Vega Project](https://research.redhat.com/projects/vega-project-openshift-based-hpc-for-fundamental-science/) research group at Red Hat on OpenShift-based HPC solution for fundamental science.
