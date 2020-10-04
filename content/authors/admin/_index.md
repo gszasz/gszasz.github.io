@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: Master's Degree in Astronomy and Astrophysics
+  - course: Master's Degree in Physics
     institution: Comenius University in Bratislava
     year: 2005
 
