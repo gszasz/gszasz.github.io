@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Astrophysics Graduate Student and Research Assistant
+role: Ph.D. Candidate in Astrophysics and Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -88,4 +88,4 @@ user_groups: []
 #- Visitors
 ---
 
-Gabriel Szász {{< pronunciation "http://www.szasz.com/pronounce.html" >}}/saːs/{{< /pronunciation >}} is an astrophysics graduate student and a research assistant at Masaryk University.  His primary research interests include stellar astrophysics, data analysis and high-performance computing.  He collaborates with the [Vega Project](https://vegaproject.io) research group at Red Hat on OpenShift-based HPC solution for fundamental science.
+Gabriel Szász {{< pronunciation "http://www.szasz.com/pronounce.html" >}}/saːs/{{< /pronunciation >}} is a Ph.D. candidate in astrophysics and a research assistant at Masaryk University.  His primary research interests include stellar astrophysics, data analysis and high-performance computing.  He collaborates with the [Vega Project](https://vegaproject.io) research group at Red Hat on OpenShift-based HPC solution for fundamental science.
