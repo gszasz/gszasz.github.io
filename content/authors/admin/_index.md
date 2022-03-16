@@ -60,9 +60,6 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Gabriel_Szasz2
-- icon: mendeley
-  icon_pack: ai
-  link: https://www.mendeley.com/profiles/gabriel-szsz/
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/3188082/gabriel-szasz/
